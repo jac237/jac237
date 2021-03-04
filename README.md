@@ -4,7 +4,15 @@
 const jessie = {
   pronouns: 'he' | 'him' | 'his',
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
-  tools: ['React.js', 'Vue.js', 'Node', 'GraphQL', 'MongoDB', 'Firestore', 'Styled-Components'],
+  tools: [
+    'React.js',
+    'Vue.js',
+    'Node',
+    'GraphQL',
+    'MongoDB',
+    'Firestore',
+    'Styled-Components',
+  ],
 };
 ```
 
@@ -29,4 +37,4 @@ const jessie = {
 <br />
 <br />
 
-<img float="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- <img float="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
