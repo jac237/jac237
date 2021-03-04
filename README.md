@@ -4,15 +4,7 @@
 const jessie = {
   pronouns: 'he' | 'him' | 'his',
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
-  tools: [
-    'React.js',
-    'Vue.js',
-    'Node',
-    'GraphQL',
-    'MongoDB',
-    'Firestore',
-    'Styled-Components',
-  ],
+  tools: ['React.js', 'Vue.js', 'Node', 'GraphQL', 'MongoDB', 'Firestore', 'Styled-Components'],
 };
 ```
 
