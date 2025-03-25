@@ -11,7 +11,7 @@ const jessie = {
 **Links & Projects**
 
 <a href="https://www.linkedin.com/in/jessieacruz/">
-  <img align="left" alt="Jessie's LinkedIn" width="22px" style="margin-right: 10px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jessie's LinkedIn" width="22px" style="margin-right: 10px" src="https://i.imgur.com/x8wRRCH.png" />
 </a>
   
 <a href="https://audiustree.vercel.app/">
